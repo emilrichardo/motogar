@@ -21,19 +21,19 @@
 						<i class="fa fa-whatsapp" aria-hidden="true"></i>
 						<div class="face"><img src="<?php echo get_template_directory_uri(); ?>/static/vendedor-oscar.jpg"></div>
 						<p class="name">Oscar <small>(En linea)</small></p>
-						<p class="cel">(0385) 155147260</p>								
+						<p class="cel"><a href="https://api.whatsapp.com/send?phone=3855147260&text=Hola%20quiero%20info">3855147260</a></p>								
 					</div>
 					<div class="employed">
 						<i class="fa fa-whatsapp" aria-hidden="true"></i>
 						<div class="face"><img src="<?php echo get_template_directory_uri(); ?>/static/vendedor-franco.jpg"></div>
 						<p class="name">Franco <small>(En linea)</small></p>
-						<p class="cel">(0385) 155147254</p>								
+						<p class="cel"><a href="https://api.whatsapp.com/send?phone=3855147254&text=Hola%20quiero%20info">3855147254</a></p>								
 					</div>
 					<div class="employed">
 						<i class="fa fa-whatsapp" aria-hidden="true"></i>
 						<div class="face"><img src="<?php echo get_template_directory_uri(); ?>/static/vendedor-matias.jpg"></div>
 						<p class="name">Matías <small>(En linea)</small></p>
-						<p class="cel">(0385) 155148115</p>								
+						<p class="cel"><a href="https://api.whatsapp.com/send?phone=3855148115&text=Hola%20quiero%20info">3855148115</a></p>								
 					</div>
 					<p class="tel">
 							<i class="fa fa-phone" aria-hidden="true"></i>

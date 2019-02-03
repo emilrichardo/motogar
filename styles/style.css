@@ -983,6 +983,10 @@ font-weight: 300;
 	margin-bottom: -.7em;
 }
 
+.solicitud .name a{
+	color: #000;
+}
+
 .solicitud .dialog{
 	background: #D8D8D8;
 	padding: 1.3em 1.6em;
@@ -2359,6 +2363,10 @@ padding-top: .5em
 
 #cotizacion .employed .cel{
 	margin-top: .3em;
+}
+
+#cotizacion .employed .cel a{
+	color: #fff;
 }
 
 #cotizacion .tel{

@@ -95,7 +95,7 @@
 
 						<div class="face"><img src="<?php echo get_template_directory_uri(); ?>/static/vendedor-oscar.jpg"></div>
 						<i class="fa fa-whatsapp" aria-hidden="true"></i>
-						<p class="name"><strong>Oscar:</strong>  0385 155147260</p>
+						<p class="name"><strong>Oscar:</strong>  <a href="https://api.whatsapp.com/send?phone=0385155147260&text=Hola%20quiero%20info">0385 155147260</a></p>
 						
 						<p>(En linea)</p>
 					</div><!-- empleado -->					
