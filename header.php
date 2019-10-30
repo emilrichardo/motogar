@@ -283,7 +283,7 @@ document.write(")");
 
 					<li><a href="#main-productos" data-toggle="modal">Productos</a></li>					
 
-					<li><a href="<?php echo home_url('/'); ?>solicitud">Financiar</a></li>
+					<li><a target="blank" href="https://cotizador.creditouniversal.com.ar/WebUI/#/Consulta/UV24914">Financiar</a></li>
 
 				</ul>
 

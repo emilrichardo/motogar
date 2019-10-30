@@ -113,7 +113,7 @@
 					<div class="col-md-8 col-sm-7 col-xs-12">
 						<div class="box">
 						<p>Dejanos tus datos y nosotros nos encargamos del resto.</p>
-						<a class="btn btn-green" href="<?php echo home_url('/'); ?>solicitud">SOLICITAR INFORME</a>
+						<a class="btn btn-green" target="blank" href="https://cotizador.creditouniversal.com.ar/WebUI/#/Consulta/UV24914">SOLICITAR INFORME</a>
 					</div>
 					</div>
 
