@@ -28,9 +28,9 @@
 						<span>Yamaha</span>
 					</a>
 				</li>
-				<li class="marca-logo-suzuki"><a href="<?php echo home_url('/'); ?>marca/suzuki">
-						<img type="image/svg+xml" src="<?php echo get_template_directory_uri(); ?>/images/marcas_suzuki.svg"></img>
-						<span>Suzuki</span>
+				<li class="marca-logo-suzuki"><a href="<?php echo home_url('/'); ?>marca/bajaj">
+						<img  type="image/svg+xml" src="<?php echo get_template_directory_uri(); ?>/images/marcas_bajaj.svg"></img>
+						<span>Bajaj</span>
 					</a>
 				</li>
 				<li class="marca-logo-mondial"><a href="<?php echo home_url('/'); ?>marca/mondial">

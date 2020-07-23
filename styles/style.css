@@ -649,7 +649,9 @@ z-index: 20;
 
 #marcas span{display: none;}
 
-
+#marcas img{
+	min-width: 130px;
+}
 
 
 

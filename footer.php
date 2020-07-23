@@ -49,7 +49,7 @@ Todos los derechos reservados. Imágenes de carácter ilustrativo. Motogar se re
 					<li><a href="#tab-honda" aria-controls="home" role="tab" data-toggle="tab">Honda</a><div class="triangulo"></div></li>
 					<li><a href="#tab-kawasaki" aria-controls="home" role="tab" data-toggle="tab">Kawasaki</a><div class="triangulo"></div></li>
 					<li><a href="#tab-yamaha" aria-controls="home" role="tab" data-toggle="tab">Yamaha</a><div class="triangulo"></div></li>
-					<li><a href="#tab-suzuki" aria-controls="home" role="tab" data-toggle="tab">Suzuki</a><div class="triangulo"></div></li>
+					<li><a href="#tab-suzuki" aria-controls="home" role="tab" data-toggle="tab">Bajaj</a><div class="triangulo"></div></li>
 					<li><a href="#tab-mondial" aria-controls="home" role="tab" data-toggle="tab">Mondial</a><div class="triangulo"></div></li>
 					<li><a href="#tab-zanella" aria-controls="home" role="tab" data-toggle="tab">Zanella</a><div class="triangulo"></div></li>
 					<li><a href="#tab-motomel" aria-controls="home" role="tab" data-toggle="tab">Motomel</a><div class="triangulo"></div></li>
@@ -101,14 +101,14 @@ Todos los derechos reservados. Imágenes de carácter ilustrativo. Motogar se re
 						<li><a href="<?php echo home_url('/'); ?>tipo/on-off/?marca=yamaha">On-Off</a></li>
 					</ul>
 					<ul id="tab-suzuki" role="tabpanel" class="tab-pane">
-						<div class="logomarca"><img type="image/svg+xml" src="<?php echo get_template_directory_uri(); ?>/images/marcas_suzuki.svg"></img></div>
-						<li ><a href="<?php echo home_url('/'); ?>tipo/cub/?marca=suzuki">Cub</a></li>
-						<li><a href="<?php echo home_url('/'); ?>tipo/street/?marca=suzuki">Street</a></li>
-						<li><a href="<?php echo home_url('/'); ?>tipo/scooter/?marca=suzuki">Scooter</a></li>
-						<li><a href="<?php echo home_url('/'); ?>tipo/sport/?marca=suzuki">Sport</a></li>
-						<li><a href="<?php echo home_url('/'); ?>tipo/super-sport/?marca=suzuki">Super Sport</a></li>
-						<li><a href="<?php echo home_url('/'); ?>tipo/custom/?marca=suzuki">Custom</a></li>
-						<li><a href="<?php echo home_url('/'); ?>tipo/on-off/?marca=suzuki">On-Off</a></li>
+						<div class="logomarca"><img type="image/svg+xml" src="<?php echo get_template_directory_uri(); ?>/images/marcas_bajaj.svg"></img></div>
+						<li ><a href="<?php echo home_url('/'); ?>tipo/cub/?marca=bajaj">Cub</a></li>
+						<li><a href="<?php echo home_url('/'); ?>tipo/street/?marca=bajaj">Street</a></li>
+						<li><a href="<?php echo home_url('/'); ?>tipo/scooter/?marca=bajaj">Scooter</a></li>
+						<li><a href="<?php echo home_url('/'); ?>tipo/sport/?marca=bajaj">Sport</a></li>
+						<li><a href="<?php echo home_url('/'); ?>tipo/super-sport/?marca=bajaj">Super Sport</a></li>
+						<li><a href="<?php echo home_url('/'); ?>tipo/custom/?marca=bajaj">Custom</a></li>
+						<li><a href="<?php echo home_url('/'); ?>tipo/on-off/?marca=bajaj">On-Off</a></li>
 						
 					</ul>
 					<ul id="tab-mondial" role="tabpanel" class="tab-pane">
